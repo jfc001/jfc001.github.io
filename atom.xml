@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jlectofficial.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-20T13:52:16.038Z</updated>
+    <updated>2021-04-20T13:52:55.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jlectofficial.github.io"/>
     <link rel="self" href="https://jlectofficial.github.io/atom.xml"/>
@@ -20,7 +20,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>这是一篇纪实文章，介绍了这几年我的黑苹果经历，及一些坑和问题，目前的进度是：</p>
 <!-- more -->
-<p>[ x ] 使用OpenCore引导</p>
+<ul>
+<li>[ x ] 使用OpenCore引导</li>
+</ul>
 <blockquote>
 <p>存在问题：<br>
 Clover同等的OpenCore配置无法使用触摸板（无语）</p>
